@@ -1,0 +1,13 @@
+{
+  "PASSO 1": "PEGAR com o administrador da conta a key desse projeto e salvar como 'serviceAccountKey.json' (não será passado pelo git por segurança)",
+
+  "PASSO 2": "Ajustar o arquivo 'schema.json' de acordo com as coleções do projeto",
+
+  "PASSO 3": "Rodar de acordo com o 'package.json' (exemplo 'yarn export...') o bin escolhido para exportar ou importar. Devido a configuração deve ser rodado na raiz do projeto ",
+
+  "PASSO 4": "O arquivo exportado ou base para importar será o 'local_db.json'",
+
+  "PASSO 5": "Renomear o arquivo gerado para, por exemplo, 'x-local_db.json', para evitar sobrescrever numa possível exportação",
+
+  "PASSO 6": "XXX"
+}

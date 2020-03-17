@@ -1,0 +1,69 @@
+{
+  "name": "hugU",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "web": "react-scripts start",
+    "build": "react-scripts build",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios --simulator=\"iPhone X\"",
+    "apk": "cd android && ./gradlew assembleRelease",
+    "exportFromFirestore": "node ./bin/firebase/firestore2json.js",
+    "importToFirestore": "node ./bin/firebase/json2firestore.js",
+    "start": "react-native start",
+    "rename": "node ./bin/rename.js",
+    "test": "jest",
+    "pod": "cd ios && pod install && cd ..",
+    "refactIos": "yarn && yarn pod && yarn ios"
+  },
+  "dependencies": {
+    "@unimodules/core": "^1.0.0",
+    "antd": "^4.0.0",
+    "expo-facebook": "^4.0.0",
+    "expo-google-sign-in": "^4.0.0",
+    "firebase": "^6.0.4",
+    "google-map-react": "^1.1.6",
+    "icomoon-react": "^1.0.0",
+    "react": "16.8.6",
+    "react-art": "^16.8.6",
+    "react-calendar": "^2.19.2",
+    "react-dom": "^16.7.0",
+    "react-google-charts": "^3.0.15",
+    "react-native": "0.59.8",
+    "react-native-firebase": "^5.2.0",
+    "react-native-material-menu": "^0.6.2",
+    "react-native-unimodules": "^0.3.1",
+    "react-native-vector-icons": "6.4.2",
+    "react-native-web": "^0.11.4",
+    "react-redux": "7.1.0-alpha.5",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-router-native": "^5.0.0",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.10.0",
+    "redux-persist-transform-filter": "^0.0.18",
+    "redux-saga": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "firebase-admin": "^8.1.0",
+    "jest": "24.7.1",
+    "ls": "^0.2.1",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-scripts": "^3.0.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

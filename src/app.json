@@ -1,0 +1,24 @@
+{
+  "name": "hugU",
+  "displayName": "hugU",
+
+  "expo": {
+    "facebookAppId": "265359694412621",
+    "facebookDisplayName": "Dev Morfos",
+    "facebookScheme": "fb265359694412621",
+
+    "ios": {
+      "bundleIdentifier": "com.morfos.hugu",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.964334802622-j3gms0qrdmtgokl7mi8652jooq50jqsm",
+          "clientId": "964334802622-j3gms0qrdmtgokl7mi8652jooq50jqsm.apps.googleusercontent.com"
+        }
+      }
+    },
+    "android": {
+      "package": "com.morfos.hugu",
+      "googleServicesFile": "./android/app/google-services.json"
+    }
+  }
+}

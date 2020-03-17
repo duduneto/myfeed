@@ -1,0 +1,340 @@
+{
+  "contentPt": {
+    "__type__": "collection",
+    "6m38HO07SiAJyXZ7kaC8": {
+      "ref": "03",
+      "txt01": "Publicações",
+      "refName": "03 Answers"
+    },
+    "EomXdIoakZqAPZnaUw5c": {
+      "ref": "07",
+      "txt02": "Respostas de",
+      "txt01": "Exibindo",
+      "txt03": "Sobre",
+      "refName": "07 Profile Question"
+    },
+    "GIMmZSQSOmVgGnCC8Xn4": {
+      "ref": "10",
+      "docId": "GIMmZSQSOmVgGnCC8Xn4",
+      "txt02": "Escolher",
+      "txt03": "Cancelar",
+      "txt01": "Escolha uma imagem de fundo",
+      "refName": "10 Avatar Background",
+      "imgs": [
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs09.jpg?alt=media&token=13538000-1e82-4d6b-b05b-776077e9c589"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs02.jpg?alt=media&token=081afdab-90a2-4b69-bb2e-3b1f5d20c57f"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs03.jpg?alt=media&token=d51e3c06-26c8-4b77-92cd-3abc14d3647f"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs04.jpg?alt=media&token=8eeb232d-b9bb-4e47-9233-621930ba1e73"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs05.jpg?alt=media&token=ff396122-cc59-4e56-9f14-35f3865bd5fd"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs06.jpg?alt=media&token=40a27f39-8626-4573-b496-85d2f602aed1"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs07.jpg?alt=media&token=50dd8c38-39b5-4bc4-82d6-d2d5de077908"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs08.jpg?alt=media&token=e8369794-4930-4f2d-b604-9469b12af8d9"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs01.jpg?alt=media&token=b0708ab2-c876-4c82-a4c5-631643c190dd"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs10.jpg?alt=media&token=2eaebb5b-8a1c-49dd-8aae-9ccc8bac3fa9"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs11.jpg?alt=media&token=0d470d7c-8032-4670-befd-8cfe8c1d6046"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs12.jpg?alt=media&token=2847b5ad-ce46-4917-a4c9-2b2d9842812d"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs13.jpg?alt=media&token=bedcdaa9-78b0-4c74-94be-b06522815305"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs14.jpg?alt=media&token=47605033-6af5-49e0-a343-e1175399ba26"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs15.jpg?alt=media&token=03148540-f0c2-49ce-a7c2-1cdb0eba6174"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs16.jpg?alt=media&token=47ec23a7-14d6-4b32-bdb9-498397e0e5a5"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs17.jpg?alt=media&token=30d6956a-7b21-4582-a29d-c511de9ffa63"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs18.jpg?alt=media&token=c7953717-b585-4bdc-81cd-54d1df13cd8a"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs19.jpg?alt=media&token=6d92928d-e3da-4f8d-9614-34fed0b0d206"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs20.jpg?alt=media&token=c81e95c8-c36e-4f94-9083-5090cac64bbd"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs21.jpg?alt=media&token=5c14213a-518e-48ea-b948-d54146eff7e4"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs22.jpg?alt=media&token=388235e6-e73b-4033-adb2-ddeca136808c"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs23.jpg?alt=media&token=833f928d-1850-4309-b4ff-1546029bee5a"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs24.jpg?alt=media&token=79017704-0d5b-4503-a6b7-4bc956a2723e"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs25.jpg?alt=media&token=538559de-0fa1-4b36-a72b-f5bb0ed42c9d"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs26.jpg?alt=media&token=d95d912f-608b-4a6f-b80e-95aebd583f93"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs27.jpg?alt=media&token=596a0f8d-fbe0-40ed-bf96-3cd93ffd82eb"
+        }
+      ]
+    },
+    "MJdcxA1nJo9sSq9ZDsRp": {
+      "ref": "01",
+      "txt01": "Bem Vindo",
+      "refName": "01 Splash Screens"
+    },
+    "TLzyqyGD19UWQlQaL881": {
+      "ref": "06",
+      "txt01": "Publicações",
+      "refName": "06 Profile Visitor"
+    },
+    "WVtt1Xmx0fKjXGxvTqlB": {
+      "ref": "02",
+      "txt01": "Texto01 - Feed",
+      "refName": "02 Feed"
+    },
+    "gw4Cdr8VWu1fvCacSykj": {
+      "txt03": "Mínimo de 400 caracteres",
+      "txt01": "Escrever ajuda",
+      "refName": "08 Profile Question Visitor",
+      "txt04": "Publicar",
+      "txt05": "Cancelar",
+      "ref": "08",
+      "txt02": "Sobre"
+    },
+    "l8ZRJChFUmsCfhdgHz5w": {
+      "ref": "00",
+      "txt02": "Entrar com Facebook",
+      "txt01": "Suas emoções agora têm um lugar de amor",
+      "txt03": "Termos ",
+      "refName": "00 SignIn"
+    },
+    "mrY1G7CVwK3dCZYM1D53": {
+      "ref": "11",
+      "txt02": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.",
+      "txt01": "TERMOS",
+      "txt03": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.",
+      "refName": "11 Terms"
+    },
+    "uKhat1Wv7BbIFieKrlB6": {
+      "ref": "09",
+      "docId": "uKhat1Wv7BbIFieKrlB6",
+      "txt02": "Escolher",
+      "txt03": "Cancelar",
+      "txt01": "Escolha um avatar",
+      "refName": "09 Avatar Profile",
+      "imgs": [
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar01.png?alt=media&token=d9511ebd-adc4-4d6c-87d1-df9952062beb"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar02.png?alt=media&token=b25de9af-d23f-4b97-8b32-e88321781a90"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar03.png?alt=media&token=105538f8-b8d0-4293-a4b5-531aba8e2840"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar04.png?alt=media&token=1af443ed-3b06-440d-8d67-b02d061d0e11"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar05.png?alt=media&token=ea78865e-1a9a-4494-bf11-2a65dc5984c6"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar06.png?alt=media&token=634d69e1-b001-474e-8cb2-794343877b31"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata07.png?alt=media&token=de769a60-c599-469b-bee1-5fbac174ef5b"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata08.png?alt=media&token=37949551-ed40-4224-98ae-38350b752302"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata09.png?alt=media&token=94f18ff5-499c-4ebc-9506-a4f5280ba112"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata10.png?alt=media&token=d1fe56f4-2c9e-4c52-8c08-f23a4e7f194b"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata11.png?alt=media&token=6725fb6d-b4b5-4358-8d30-e36ca8df4781"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata12.png?alt=media&token=c1a124b7-9f31-4026-848d-123f40c82e6d"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata13.png?alt=media&token=bed48490-ccaa-489d-ae51-ac317abb9aaa"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata14.png?alt=media&token=f8a72f0b-41dd-4189-9ab4-332a6f0aa3f7"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata15.png?alt=media&token=d7f3bd33-bfb9-4eb4-a317-1a75fb45e88e"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata16.png?alt=media&token=de448580-e7db-4e07-ac76-487ae03d919b"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata17.png?alt=media&token=ad9701b6-60fc-454d-875a-f7b4065bba2a"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar28.png?alt=media&token=192c1510-fc2b-452b-b5c6-5a11084c64de"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar18.png?alt=media&token=06d0e1d7-aa1d-422a-a791-dde558097757"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar19.png?alt=media&token=355fc9ad-5f3f-4e8d-90f2-69450d731fb1"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar20.png?alt=media&token=257be56a-06c8-4e43-9ef2-40bae2d42e50"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar21.png?alt=media&token=5cb42d13-db35-4174-85f3-a2ba79be7920"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar22.png?alt=media&token=e5e98dca-e22f-4aae-b0cd-c724e5d19bea"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar23.png?alt=media&token=cce90b46-019e-4689-ab40-182927b0cc04"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar24.png?alt=media&token=0fe17fbd-429f-4450-8e77-1aec8c6f9d70"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar25.png?alt=media&token=a2ca4946-6718-4ebd-bb98-c02b3f60adf3"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar26.png?alt=media&token=54cac463-4507-4f90-b76d-d214f686962e"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar27.png?alt=media&token=1eb31831-40aa-414c-b840-9f3e898bdd21"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar39.png?alt=media&token=c6a088f7-63ae-4870-a39a-c4bae4aac011"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar29.png?alt=media&token=47341694-4e36-4293-8454-f9723b99889c"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar30.png?alt=media&token=3354b3a4-b674-4be4-95c7-89fcd99c4360"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar31.png?alt=media&token=459c00ba-596a-4d1f-833f-f4982c02597c"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar32.png?alt=media&token=c286db4b-f1b7-4081-81b2-d7fc8b13fc93"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar33.png?alt=media&token=8b62918f-d790-435b-b29e-636e7791f41c"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar34.png?alt=media&token=2d2dfce0-49e6-46d5-843c-b957e74ad022"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar35.png?alt=media&token=1db3a35a-de11-4821-ba78-cb719f6f84a9"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar36.png?alt=media&token=df94a4c9-5869-4905-a197-9fe4df372c12"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar37.png?alt=media&token=57780fa2-6db5-4223-9957-c20e544e4e8f"
+        },
+        {
+          "key": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar38.png?alt=media&token=27eb860b-5efc-4cde-9134-980f8ec7a9dd"
+        }
+      ]
+    },
+    "yC6BTSAOqtdHusUPRoNB": {
+      "txt05": "Cancelar",
+      "txt02B": "Escreva seu Texto",
+      "txt02A": "Título ",
+      "ref": "04",
+      "txt03": "Mínimo de 400 caracteres",
+      "txt01": "Explique como você se sente...",
+      "refName": "04 Write",
+      "txt04": "Publicar"
+    },
+    "zcYZinvjEb2RV0BCjEES": {
+      "ref": "05",
+      "txt01": "Publicações",
+      "refName": "05 Profile"
+    }
+  },
+  "posts": { "__type__": "collection", "ppp1": { "ref": "01" } },
+  "rates": { "__type__": "collection", "rrr1": { "ref": "01" } },
+  "hugs": { "__type__": "collection", "hhh1": { "ref": "01" } },
+  "comments": { "__type__": "collection", "ccc1": { "ref": "01" } },
+  "users": {
+    "__type__": "collection",
+    "xxx1": {
+      "docId": "xxx1",
+      "userBg": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs05.jpg?alt=media&token=ff396122-cc59-4e56-9f14-35f3865bd5fd",
+      "createdAt": {
+        "_seconds": 1554231660,
+        "_nanoseconds": 0
+      },
+      "userImage": "https://lh4.googleusercontent.com/-6GCcxKSeSKU/AAAAAAAAAAI/AAAAAAAAABs/DTkJFWprqwo/photo.jpg",
+      "totalHugs": 0,
+      "docId": "xxx1",
+      "userAvatar": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avata17.png?alt=media&token=ad9701b6-60fc-454d-875a-f7b4065bba2a",
+      "totalLikes": 2,
+      "userName": "Morfos Web 01",
+      "totalDislikes": 0
+    },
+    "xxx2": {
+      "docId": "xxx2",
+      "userBg": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs01.jpg?alt=media&token=b0708ab2-c876-4c82-a4c5-631643c190dd",
+      "createdAt": {
+        "_seconds": 1554231720,
+        "_nanoseconds": 0
+      },
+      "userImage": "https://lh4.googleusercontent.com/-6GCcxKSeSKU/AAAAAAAAAAI/AAAAAAAAABs/DTkJFWprqwo/photo.jpg",
+      "totalHugs": 0,
+      "docId": "xxx2",
+      "userAvatar": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar06.png?alt=media&token=634d69e1-b001-474e-8cb2-794343877b31",
+      "totalLikes": 2,
+      "userName": "Morfos Web 02",
+      "totalDislikes": 0
+    },
+    "xxx3": {
+      "userAvatar": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/avatar24.png?alt=media&token=0fe17fbd-429f-4450-8e77-1aec8c6f9d70",
+      "totalLikes": 2,
+      "userName": "Morfos Web 03",
+      "totalDislikes": 0,
+      "docId": "xxx3",
+      "userBg": "https://firebasestorage.googleapis.com/v0/b/huguapp-43f57.appspot.com/o/bgs%2Fbgs10.jpg?alt=media&token=2eaebb5b-8a1c-49dd-8aae-9ccc8bac3fa9",
+      "createdAt": {
+        "_seconds": 1557138536,
+        "_nanoseconds": 393000000
+      },
+      "userImage": "https://lh4.googleusercontent.com/-6GCcxKSeSKU/AAAAAAAAAAI/AAAAAAAAABs/DTkJFWprqwo/photo.jpg",
+      "totalHugs": 1,
+      "docId": "xxx3"
+    }
+  }
+}

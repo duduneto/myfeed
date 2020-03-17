@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prosper</string>
+    <!-- add manually -->
+    <string name="facebook_app_id">265359694412621</string> 
+    <string name="fb_login_protocol_scheme">fb265359694412621</string>
+</resources>

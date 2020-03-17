@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964334802622",
+    "firebase_url": "https://huguapp-43f57.firebaseio.com",
+    "project_id": "huguapp-43f57",
+    "storage_bucket": "huguapp-43f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964334802622:android:86f366e70fde968c",
+        "android_client_info": {
+          "package_name": "com.morfos.hugu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964334802622-vdc1ef6uinc43pjnljc2gch46ni75n1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdGTkxVpGNCsmxl-gP6jUaNH4VptfQq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964334802622-vdc1ef6uinc43pjnljc2gch46ni75n1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

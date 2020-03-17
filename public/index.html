@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- <title>morfos_native_web</title> -->
+    <meta charset="utf-8" />
+    <meta name="description" content="Morfos's description" />
+    <meta name="author" content="Morfos" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- iOs Support -->
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <meta name="apple-mobile-web-app-status-bar" content="#000" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <style>
+      .body,
+      .wrapper {
+        /* Break the flow */
+        position: absolute;
+        top: 0px;
+
+        /* Give them all the available space */
+        width: 100%;
+        height: 100%;
+
+        /* Remove the margins if any */
+        margin: 0;
+
+        /* Allow them to scroll down the document */
+        overflow-y: hidden;
+      }
+
+      .body {
+        /* Sending body at the bottom of the stack */
+        z-index: 1;
+      }
+
+      .wrapper {
+        /* Making the wrapper stack above the body */
+        z-index: 2;
+        display: flex;
+        flex-direction: column;
+        max-width: 600px;
+        margin: 0 auto;
+        min-height: 100vh;
+        max-height: 100vh;
+      }
+    </style>
+  </head>
+
+  <body class="body">
+    <div class="wrapper" id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <!-- <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker
+          .register('/sw.js')
+          .then(function() {
+            console.log('service worker registered');
+          })
+          .catch(function() {
+            console.warn('service worker failed');
+          });
+      }
+    </script> -->
+  </body>
+</html>
