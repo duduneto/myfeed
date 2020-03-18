@@ -33,8 +33,7 @@ export default function Cp01(compProps) {
     // #region [allStyles]
     // ------------------------------
 
-    let condition01 =
-      Cp01 && Cp01 === 'search' ? useStyle.searchBar : useStyle.navbarView;
+    let styleNavBar = useStyle.navbarView;
 
     // ------------------------------
     // #endregion
@@ -43,7 +42,7 @@ export default function Cp01(compProps) {
       // #region [component]
       // ------------------------------
 
-      <View style={condition01}>{props.children}</View>
+      <View style={styleNavBar}>{props.children}</View>
 
       // ------------------------------
       // #endregion
@@ -80,7 +79,7 @@ export default function Cp01(compProps) {
 
     let stl01 = [useStyle.leftBox];
     let stl02 = [useStyle.flexCenter, { flex: 1, width: 50 }];
-    let condition01 = Cp01 && Cp01 === 'search' ? '#2A576B' : '#EEE';
+    let condition01 = "#000";
 
     // ------------------------------
     // #endregion
@@ -89,10 +88,6 @@ export default function Cp01(compProps) {
       // ------------------------------
 
       <View style={stl01}>
-        {/* Verifica se está na pagina inicial ou Edição de Atividade/Oportunidade/Cliente (Este ultimo para evitar bug desconhecido) */}
-        {compProps.props && compProps.props.location.pathname === '/menus' ? (
-          <></>
-        ) : (
           <TouchableOpacity
             style={stl02}
             onPress={() => {
@@ -101,7 +96,6 @@ export default function Cp01(compProps) {
           >
             <UseIcoMoon name="chevron-left" size={26} color={condition01} />
           </TouchableOpacity>
-        )}
       </View>
 
       // ------------------------------
@@ -134,7 +128,31 @@ export default function Cp01(compProps) {
 
       <View style={stl01}>
         {Cp01 && Cp01 === 'logo' ? (
-          <Image style={stl02} source={require('../images/logo.png')} />
+          <>
+          {/* IMPROVED ICON */}
+          <View style={{
+            width: 0, 
+            height: 0, 
+            borderLeftWidth: 20, 
+            borderLeftColor: '#0000',
+            borderRightWidth: 20, 
+            borderRightColor: '#0000',
+            borderBottomWidth: 40, 
+            borderBottomColor: '#31a05e',
+            position: 'relative'
+          }} />
+          <View style={{
+            width: 0, 
+            height: 0, 
+            borderLeftWidth: 20, 
+            borderLeftColor: '#0000',
+            borderBottomWidth: 40, 
+            borderBottomColor: '#34582a',
+            position: 'absolute',
+            marginLeft: -10
+          }} />
+          </>
+          // <Image style={stl02} source={require('../images/logo.png')} />
         ) : (
           <Text style={stl03}>{Cp01 === 'search' ? '' : Cp01}</Text>
         )}
@@ -168,7 +186,7 @@ export default function Cp01(compProps) {
 
       <View style={stl01}>
         <TouchableOpacity onPress={signOut}>
-          <UseIcoMoon name="logout" size={22} color="#fff" />
+          <UseIcoMoon name="logout" size={22} color="#000" />
         </TouchableOpacity>
       </View>
 

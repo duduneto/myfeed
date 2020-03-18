@@ -18,8 +18,8 @@ const heightPercentageToDP = heightPercent => {
  **************************** COLORS
  ******************************** */
 
-const primaryColor = '#2A576B';
-const secondaryColor = '#113646';
+const primaryColor = '#ffffff';
+const secondaryColor = '#75a940';
 const tertiaryColor = '#C0FF00';
 const inverseColor = '#eee';
 const lightGray = '#f6f6f6';
@@ -193,7 +193,7 @@ const Styles = StyleSheet.create({
     height: 60,
     ...flexRow,
     ...flexBetween,
-    ...shadowMore
+    // ...shadowMore <--- Sombra
   },
   longBar: {
     backgroundColor: primaryColor,
@@ -372,7 +372,7 @@ const Styles = StyleSheet.create({
   },
   logoBar: {
     height: 34,
-    width: 125
+    width: 30
   }
 });
 export default Styles;

@@ -16,7 +16,7 @@ export function reducer(state, action) {
     case SYNC:
       return {
         ...state,
-        [action.info.reducerName]: action.info.value
+        Testando: action.info.value
       };
 
     default:
