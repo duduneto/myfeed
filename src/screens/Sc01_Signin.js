@@ -34,17 +34,18 @@ export default function Sc00(compProps) {
 
   // set hooks
   const { rdAuthUser, rdContent, rdMenuSelect } = useReducer();
-  const screenContent = rdContent[0];
+  // const screenContent = rdContent[0];
   const callListRd = useListRd();
   const callChangeRd = useChangeRd();
 
-  rdAuthUser &&
-    rdAuthUser.length > 0 &&
-    callChangeRd({
-      reducerName: 'rdAuthUser',
-      value: { ...rdAuthUser[0], logged: true }
-    });
-  rdAuthUser && rdAuthUser.logged && compProps.history.push('/menus');
+  // rdAuthUser &&
+  //   rdAuthUser.length > 0 &&
+  //   callChangeRd({
+  //     reducerName: 'rdAuthUser',
+  //     value: { ...rdAuthUser[0], logged: true }
+  //   });
+  // rdAuthUser && rdAuthUser.logged && compProps.history.push('/menus');
+  compProps.history.push('/menus')
   // ------------------------------
   // #endregion
 
@@ -220,7 +221,7 @@ export default function Sc00(compProps) {
             });
           }}
         >
-          <Text style={stlTxt03}>{screenContent.txt03}</Text>
+          {/* <Text style={stlTxt03}>{screenContent.txt03}</Text> */}
         </TouchableOpacity>
       </View>
 

@@ -127,8 +127,7 @@ export default function Cp01(compProps) {
       // ------------------------------
 
       <View style={stl01}>
-        {Cp01 && Cp01 === 'logo' ? (
-          <>
+        <>
           {/* IMPROVED ICON */}
           <View style={{
             width: 0, 
@@ -152,10 +151,6 @@ export default function Cp01(compProps) {
             marginLeft: -10
           }} />
           </>
-          // <Image style={stl02} source={require('../images/logo.png')} />
-        ) : (
-          <Text style={stl03}>{Cp01 === 'search' ? '' : Cp01}</Text>
-        )}
       </View>
 
       // ------------------------------

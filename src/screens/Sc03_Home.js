@@ -38,7 +38,7 @@ export default function Sc00() {
 
   // set hooks
   const { rdAuthUser, rdContent, rdMenuSelect } = useReducer();
-  const screenContent = rdContent[3];
+  // const screenContent = rdContent[3];
   const callChangeRd = useChangeRd();
 
   //FUNÇÕES P/ CAPTURAR TAMANHO EM DP DA TELA
@@ -288,6 +288,7 @@ export default function Sc00() {
       <ScrollView
         horizontal={true}
         showsHorizontalScrollIndicator={false}
+        style={{marginBottom: 30}}
       >
         <View style={{
           flexDirection: 'row'
@@ -395,11 +396,11 @@ export default function Sc00() {
       },
       {
         title: 'Cactus',
-        img: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80'
+        img: 'https://images.unsplash.com/photo-1554631221-f9603e6808be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80'
       },
       {
         title: 'Howea',
-        img: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=966&q=80'
+        img: 'https://images.unsplash.com/photo-1525498128493-380d1990a112?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80'
       },
       {
         title: 'Calanthea',
@@ -465,29 +466,7 @@ export default function Sc00() {
 
   //_______________________________
 
-  const ACTIVITYS = props => {
-    // #region [NOsetLogic]
-    // ------------------------------
-
-    // ------------------------------
-    // #endregion
-
-    return (
-      // #region [component]
-      // ------------------------------
-      <UseLink to="/activitysLists" style={{ textDecoration: 'none' }}>
-        <TouchableOpacity style={stlView10}>
-          <UseIcoMoon name="checklist" size={60} color={'#113646'} />
-          <Text style={stlTxt07}>{screenContent.txt06}</Text>
-        </TouchableOpacity>
-      </UseLink>
-      // ------------------------------
-      // #endregion
-    );
-  };
-
-  //_______________________________
-
+  
   // ---------------------- THE END
   return <SCREEN />;
 }

@@ -17,10 +17,10 @@ export default function AllPrivate(props) {
   const { rdAuthUser } = useReducer();
 
   /* AFTER STYLING... */
-  return !rdAuthUser ? (
-    <UseRedirect to="/signin" />
-  ) : (
-    // return (
+  // return !rdAuthUser ? (
+  //   <UseRedirect to="/signin" />
+  // ) : (
+    return (
 
     <>
       <Cp01 props={props} />
