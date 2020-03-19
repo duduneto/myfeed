@@ -288,7 +288,7 @@ export default function Sc00() {
       <ScrollView
         horizontal={true}
         showsHorizontalScrollIndicator={false}
-        style={{marginBottom: 30}}
+        style={{ marginBottom: 30 }}
       >
         <View style={{
           flexDirection: 'row'
@@ -354,27 +354,27 @@ export default function Sc00() {
       <>
         <Carousel
           afterChange={(e) => console.log(e)}
-          style={{marginTop: 20}}
+          style={{ marginTop: 20 }}
         >
           <View style={{ flexDirection: 'row', justifyContent: 'center' }} >
 
             <ImageBackground
-            source={'https://images.unsplash.com/photo-1582793988951-9aed5509eb97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80'}
-            style={{height: 165}}
+              source={'https://images.unsplash.com/photo-1582793988951-9aed5509eb97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80'}
+              style={{ height: 200 }}
             />
           </View>
           <View style={{ flexDirection: 'row', justifyContent: 'center' }} >
 
             <ImageBackground
-            source={'https://images.unsplash.com/photo-1579491197764-170bdcd99bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80'}
-            style={{height: 165}}
+              source={'https://images.unsplash.com/photo-1579491197764-170bdcd99bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80'}
+              style={{ height: 200 }}
             />
           </View>
           <View style={{ flexDirection: 'row', justifyContent: 'center' }} >
 
             <ImageBackground
-            source={'https://images.unsplash.com/photo-1576873866239-7d7fd7402e1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80'}
-            style={{height: 165}}
+              source={'https://images.unsplash.com/photo-1576873866239-7d7fd7402e1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80'}
+              style={{ height: 200 }}
             />
           </View>
         </Carousel>
@@ -387,8 +387,16 @@ export default function Sc00() {
   //_______________________________
 
   const INITIAL_LIST = props => {
+
+    // #region [allStyles]
+    // ------------------------------
+    
+    // ------------------------------
+    // #endregion
+
     // #region [NOsetLogic]
     // ------------------------------
+
     let list = [
       {
         title: 'Monasteria',
@@ -466,7 +474,7 @@ export default function Sc00() {
 
   //_______________________________
 
-  
+
   // ---------------------- THE END
   return <SCREEN />;
 }

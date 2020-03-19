@@ -25,7 +25,7 @@ export default function AllPrivate(props) {
     <>
       <Cp01 props={props} />
       {props.children}
-      <Cp02 props={props} />
+      {/* <Cp02 props={props} /> */}
     </>
   );
 }
