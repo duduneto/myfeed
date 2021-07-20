@@ -29,7 +29,7 @@
     "react-calendar": "^2.19.2",
     "react-dom": "^16.7.0",
     "react-google-charts": "^3.0.15",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-firebase": "^5.2.0",
     "react-native-material-menu": "^0.6.2",
     "react-native-unimodules": "^0.3.1",
